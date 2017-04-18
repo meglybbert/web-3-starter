@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25813",
 "files": {
+	"\/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/build",
+		"oF": 0
+		},
 	"\/css\/_semantic.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -77,13 +83,13 @@
 		},
 	"\/html\/head.kit": {
 		"ft": 2048,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/build\/html\/head.html",
 		"oF": 0
 		},
 	"\/html\/scripts.kit": {
 		"ft": 2048,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/build\/html\/scripts.html",
 		"oF": 0
 		},
@@ -141,7 +147,7 @@
 	"displayValue": "web-3-starter",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 514237180
+	"lastBuiltDate": 514247162
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
